@@ -65,6 +65,15 @@ body {
     padding: 10px;
 }
 
+#produto2 {
+    margin-top: 9px;   
+}
+
+#produto3 {
+    margin-top: 9px;
+    
+}
+
 .produtos {
     max-width: 900px;
     width: 100%;
